@@ -1,4 +1,4 @@
-# docker apache2 php 7.0 node.js npm
+# docker apache2 php 7.0
 
 ## Overview
 
